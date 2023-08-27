@@ -1,0 +1,9 @@
+{
+  "name": "puppet-safe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@gnosis.pm/zodiac": "^3.3.7"
+  }
+}
